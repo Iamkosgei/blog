@@ -4,15 +4,30 @@ A new Flutter project.
 
 ## SCREENSHOTS
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/14147462/112322871-53a81300-8cc2-11eb-80d2-09280e369eb5.jpg" width="250" />
-  <img src="https://user-images.githubusercontent.com/14147462/112322882-560a6d00-8cc2-11eb-8e99-66ab2a30fe1c.jpg" width="250" />
-  <img src="https://user-images.githubusercontent.com/14147462/112322888-573b9a00-8cc2-11eb-8f98-a641c3faf8ab.jpg" width="250" />
+  <img src="https://user-images.githubusercontent.com/14147462/112325467-c31f0200-8cc4-11eb-9f65-96e1f4e74725.jpg" width="250" />
+    <img src="https://user-images.githubusercontent.com/14147462/112325485-c74b1f80-8cc4-11eb-9e6d-30e5be1d15f1.jpg" width="250" />
+  <img src="https://user-images.githubusercontent.com/14147462/112325959-2a3cb680-8cc5-11eb-96d2-956d93258532.png" width="250" />
 </p>
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/14147462/112322890-57d43080-8cc2-11eb-8f73-22777d52edb4.jpg" width="250" />
-  <img src="https://user-images.githubusercontent.com/14147462/112322895-59055d80-8cc2-11eb-9254-cc4ba4cc31b1.jpg" width="250" />
+  <img src="https://user-images.githubusercontent.com/14147462/112325486-c74b1f80-8cc4-11eb-9a98-e16744fe308b.jpg" width="250" />
+  <img src="https://user-images.githubusercontent.com/14147462/112325489-c87c4c80-8cc4-11eb-940f-54b68a599341.jpg" width="250" />
 </p>
-## Getting Started
+
+
+## Tools and packages used
+- Dio - A powerful Http client for Dart, which supports Interceptors, Global configuration, FormData, Request Cancellation, File downloading, Timeout etc.
+
+- Bloc - A predictable state management library that helps implement the BLoC (Business Logic Component) design pattern.
+
+- Google fonts -  package for Flutter allows you to easily use any of the 977 fonts (and their variants) from fonts.google.com in your Flutter app.
+
+- Get it - Simple direct Service Locator that allows to decouple the interface from a concrete implementation and to access the concrete implementation from everywhere in your App"
+
+- shared Preferences - Wraps platform-specific persistent storage for simple data (NSUserDefaults on iOS and macOS, SharedPreferences on Android, etc.). Data may be persisted to disk asynchronously, and there is no guarantee that writes will be persisted to disk after returning, so this plugin must not be used for storing critical data.
+
+- Cached Network image - Flutter library to load and cache network images. Can also be used with placeholder and error widgets.
+
+## Getting Started with flutter
 
 This project is a starting point for a Flutter application.
 
